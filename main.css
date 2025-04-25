@@ -1,0 +1,71 @@
+.headerText_c19a55 {
+    background-color: rgba(255, 255, 255, 0.719);
+    margin-top: 5px;
+    padding-inline: 10px;
+    border-radius: 30px;
+}
+
+.divider__908e2 {
+    border-top: none;
+}
+
+.visual-refresh .content__908e2 {
+    background-color: transparent;
+}
+
+.form_f75fb0 {
+    background-color: seashell;
+}
+
+.scrollableContainer__74017 {
+    background-color: seagreen;
+}
+
+.slateTextArea_ec4baf {
+    color: black;
+}
+
+.inner__74017 div {
+    color: seashell;
+}
+
+.spriteGreyscale__04eed {
+    color: black;
+}
+
+.messagesWrapper__36d07 {
+    background-color: seashell;
+}
+
+.messageListItem__5126c:not([data-text="Chain knight"]) {
+    border-radius: 30px;
+    border-top-left-radius: 0px;
+    padding: 5px;
+    padding-top: 0px;
+    margin-right: 80%;
+    margin-top: 5px;
+    margin-left: 2%;
+    background-color: coral;
+}
+
+
+.messageListItem__5126c:has([class="nameContainer__703b9"]) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px;
+    padding: 0px;
+    padding-top: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: seashell;
+}
+
+.messageListItem__5126c:has([data-text="Chain knight"]) {
+    border-radius: 30px;
+    border-top-right-radius: 0px;
+    margin-right: 1%;
+    margin-left: 80%;
+    background-color: seagreen;
+}
