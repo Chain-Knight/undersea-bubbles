@@ -69,3 +69,68 @@
     margin-left: 80%;
     background-color: seagreen;
 }
+
+.visual-refresh .cozy_c19a55 .timestamp_c19a55 {
+    color: black;
+}
+
+.visual-refresh nav[class*=guilds_] {
+    margin-bottom: unset;
+}
+
+.searchBar__35e86 {
+    background-color: linen;
+}
+
+.bar_c38106 {
+    background-color: antiquewhite;
+}
+
+.visual-refresh .wrapper_ef3116 {
+    background-color: antiquewhite;
+}
+
+.upperContainer__9293f ::after {
+    display: none;
+}
+
+.visual-refresh .theme-light {
+    background-color: linen;
+}
+
+
+.visual-refresh .title__85643 {
+    align-items: center;
+    display:inline-flex;
+    gap: none;
+    justify-content: center;
+    max-width: none
+}
+
+.visual-refresh .title__85643 .defaultColor__4bd52{
+    display: none;
+}
+
+.visual-refresh .title__85643:after {
+    content: url(https://chain-knight.github.io/undersea-bubbles/icon_logo.png);
+    scale: 0.5;
+}
+.title__85643 svg {
+    display: none;
+}
+
+.visual-refresh .privateChannels__35e86 {
+    background-color: seashell;
+}
+
+.visual-refresh .scroller__99e7c {
+    background-color: transparent;
+}
+
+.visual-refresh .title_f75fb0 {
+    background-color: linen;
+}
+
+.visual-refresh .sidebar_c48ade {
+    background-color: antiquewhite;
+}
