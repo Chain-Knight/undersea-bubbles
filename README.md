@@ -1,1 +1,1 @@
-Is this a vencord theme?
+Isn't this a vencord theme?
